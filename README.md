@@ -103,7 +103,7 @@ Consultez le dossier `documentation/` pour des guides d'analyse détaillés.
 ## 📚 **Ressources Utiles**
 
 - [Tutoriels des VLANs](https://www.ciscomadesimple.be/2009/08/05/cisco-configuration-de-vlans-sur-un-switch/)
-- [Cours sur les VLANs]([https://datascientest.com/vlan-tout-savoir)
+- [Cours sur les VLANs](https://datascientest.com/vlan-tout-savoir)
 
 ---
 
